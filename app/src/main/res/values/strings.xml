@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="enter_your_year_of_birth">Enter Your Year Of Birth</string>
+    <string name="get_age">Get Age</string>
+    <string name="your_age_will_be_shown_here">Your Age will be shown here</string>
+    <string name="age">your age . . .</string>
+</resources>
